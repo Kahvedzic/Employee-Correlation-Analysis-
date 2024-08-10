@@ -1,2 +1,17 @@
-# HR
-Deep dive analysis among employees (Python)
+Deep Dive Analysis Using Python
+
+Project Problem Statement
+
+Does the number of years employed have any direct correlation to the overall number of employees retained vs left. 
+Is there a point in which x-amount years employeed has a significant shift of employees leaving the company vs 
+retained. Our analysis will consists upon the bases of two clear distinctions, where years employeed (>=5 and <=5)
+The purpose of this project is to determine if there are any correlations with hours worked, projects completed, 
+and satisfaction levels amongst employees. Once our analysis is complete, we will take another step by seperating 
+our analysis into departments in order to create insights to see if there are any correlations amongst departments 
+
+This was a very fun project I completed for my final capstone 
+I hope you enjoy my long thorough analysis
+
+LinkedIn Profile - https://www.linkedin.com/in/amar-kahvedzic-20a02414a/
+
+
