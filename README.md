@@ -1,4 +1,4 @@
-Deep Dive Analysis Using Python (Jupyter Notebook)
+Deep Dive Analysis Using Python (Jupyter Notebook) 👉 CLICK FILE ABOVE FOR PROJECT 👈
 
 Does the number of years employed have any direct correlation to the overall number of employees retained vs left. 
 Is there a point in which x-amount years employeed has a significant shift of employees leaving the company vs 
@@ -12,16 +12,18 @@ Core of analysis will be looking into 3 key columns:
 - number of projects completed
 - average monthly hours worked
 
-Core of project will be split between years employed greater or equal to 5 years vs less or equal to 5 years
+Core of project will be split between:
+years employed greater or equal to 5 years vs less or equal to 5 years
 
 Tools used in project include the following:
 Pandas, Numpy, Matplotlib, Seaborn
 
 Techniques used in project include the following: 
-Filtering dataframe/columns, missing values, positive/negative correlations, box-plots/line graphs/bar graphs, potential outliers, 
+Filtering dataframe/columns, checking missing values, checking positive/negative correlations, visualizing comparison with box plots/line graphs/bar graphs, potential outliers
  
 This was a very fun project I completed for my final capstone 
-I hope you enjoy my long thorough analysis
+Result of analysis will be interesting to say the least
+I hope you enjoy my long thorough analysis 
 
 LinkedIn Profile - https://www.linkedin.com/in/amar-kahvedzic-20a02414a/
 
