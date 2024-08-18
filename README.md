@@ -8,12 +8,12 @@ and satisfaction levels amongst employees. Once our analysis is complete, we wil
 our analysis into departments in order to create insights to see if there are any correlations amongst departments 
 
 Core of analysis will be looking into 3 key columns:
-- satisfaction levels
-- number of projects completed
-- average monthly hours worked
+- Satisfaction levels
+- Number of projects completed
+- Average monthly hours worked
 
 Core of project will be split between:
-years employed greater or equal to 5 years vs less or equal to 5 years
+Years employed greater or equal to 5 years vs less or equal to 5 years + results grouped by departments further into analysis
 
 Tools used in project include the following:
 Pandas, Numpy, Matplotlib, Seaborn
