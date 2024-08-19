@@ -7,7 +7,7 @@ Is there a point in which x-amount years employeed has a significant shift of em
 retained. Our analysis will consists upon the bases of two clear distinctions, where years employeed (>=5 and <=5)
 The purpose of this project is to determine if there are any correlations with hours worked, projects completed, 
 and satisfaction levels amongst employees. Once our analysis is complete, we will take another step by seperating 
-our analysis into departments in order to create insights to see if there are any correlations amongst departments 
+our analysis into departments in order to gather more information before we determine if there are any correlations amongst the departments
 
 Core of analysis will be looking at 3 key columns:
 - Satisfaction levels
