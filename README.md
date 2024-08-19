@@ -17,7 +17,6 @@ Pandas, Numpy, Matplotlib, Seaborn
 Techniques used in project include the following: 
 Filtering dataframe/columns, checking missing values, checking positive/negative correlations, visualizing comparison with box plots/line graphs/bar graphs, potential outliers
  
-This was a very fun project I completed for my final capstone 
 Result of analysis will be interesting to say the least
 I hope you enjoy my long thorough analysis 
 
