@@ -1,6 +1,7 @@
 👉 CLICK Employee Correlation Analysis.ipynb FILE FOR PROJECT 👈
 
 Deep Dive Analysis Using Python (Jupyter Notebook)
+
 Does the number of years employed have any direct correlation to the overall number of employees retained vs left. 
 Is there a point in which x-amount years employeed has a significant shift of employees leaving the company vs 
 retained. Our analysis will consists upon the bases of two clear distinctions, where years employeed (>=5 and <=5)
