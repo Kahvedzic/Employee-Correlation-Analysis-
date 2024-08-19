@@ -1,5 +1,6 @@
-Deep Dive Analysis Using Python (Jupyter Notebook) 👉 CLICK FILE ABOVE FOR PROJECT 👈
+👉 CLICK Employee Correlation Analysis.ipynb FILE FOR PROJECT 👈
 
+Deep Dive Analysis Using Python (Jupyter Notebook)
 Does the number of years employed have any direct correlation to the overall number of employees retained vs left. 
 Is there a point in which x-amount years employeed has a significant shift of employees leaving the company vs 
 retained. Our analysis will consists upon the bases of two clear distinctions, where years employeed (>=5 and <=5)
@@ -7,13 +8,14 @@ The purpose of this project is to determine if there are any correlations with h
 and satisfaction levels amongst employees. Once our analysis is complete, we will take another step by seperating 
 our analysis into departments in order to create insights to see if there are any correlations amongst departments 
 
-Core of analysis will be looking into 3 key columns:
+Core of analysis will be looking at 3 key columns:
 - Satisfaction levels
 - Number of projects completed
 - Average monthly hours worked
 
-Core of project will be split between:
-Years employed greater or equal to 5 years vs less or equal to 5 years + results grouped by departments further into analysis
+Core of project will also be split between:
+- Years employed greater or equal to 5 years vs less or equal to 5 years 
+- Results will also be grouped by departments further into project for deeper analysis
 
 Tools used in project include the following:
 Pandas, Numpy, Matplotlib, Seaborn
