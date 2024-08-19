@@ -15,7 +15,8 @@ Tools used in project include the following:
 Pandas, Numpy, Matplotlib, Seaborn
 
 Techniques used in project include the following: 
-Filtering dataframe/columns, checking missing values, checking positive/negative correlations, visualizing comparison with box plots/line graphs/bar graphs, potential outliers
+Preparing data- filtering dataframe/columns, missing values, outliers
+Visualizing data - positive/negative correlations, box plots/line graphs/bar graphs
  
 Result of analysis will be interesting to say the least
 I hope you enjoy my long thorough analysis 
