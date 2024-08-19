@@ -15,6 +15,7 @@ Tools used in project include the following:
 Pandas, Numpy, Matplotlib, Seaborn
 
 Techniques used in project include the following: 
+
 Preparing data- filtering dataframe/columns, missing values, outliers
 
 Visualizing data - positive/negative correlations, box plots/line graphs/bar graphs
