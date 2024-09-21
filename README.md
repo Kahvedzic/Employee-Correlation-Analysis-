@@ -18,7 +18,8 @@ Preparing data- filtering dataframe/columns, missing values, outliers
 
 Visualizing data - positive/negative correlations, box plots/line graphs/bar graphs
  
-Result of analysis will be unpredictable,
+Result of analysis will be unpredictable
+
 I hope you enjoy my long thorough analysis 
 
 👉 CLICK Employee Correlation Analysis.ipynb FILE FOR PROJECT 👈
