@@ -1,4 +1,6 @@
-# Deep Dive Analysis Using Python (Jupyter Notebook)
+# Employee Analysis
+
+Python & Jupyter Notebook
 
 Core of analysis will be looking at 3 key columns:
 - Satisfaction levels
