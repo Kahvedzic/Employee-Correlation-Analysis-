@@ -38,30 +38,9 @@ Overview of dataset used in project:
 
 <img width="1127" alt="Screenshot 2024-10-22 at 12 00 07 AM" src="https://github.com/user-attachments/assets/38a19cc6-6e6f-402f-9125-488a30edc751">
 
+Prior to beginning of analysis, familiarization with the dataset was used for quality control.
 
 
-
-
-
-
-
-Core of analysis will be looking at 3 key columns:
-- Satisfaction levels
-- Number of projects completed
-- Average monthly hours worked
-
-Core of project will also be split between:
-- Years employed greater or equal to 5 years vs less or equal to 5 years 
-- Results will also be grouped by departments further into project for deeper analysis
-
-Tools used in project include the following:
-Pandas, Numpy, Matplotlib, Seaborn
-
-Techniques used in project include the following: 
-
-Preparing data- filtering dataframe/columns, missing values, outliers
-
-Visualizing data - positive/negative correlations, box plots/line graphs/bar graphs
 
 
 
