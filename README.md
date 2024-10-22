@@ -40,6 +40,23 @@ Overview of dataset used in project:
 
 Prior to beginning of analysis, familiarization with the dataset was used for quality control.
 
+# Executive Summary
+
+Overview of findings: 
+
+Summary: Time spent with the company results
+
+Where years employed >=5
+* left the company: 80% at 5 years, 20 % at 6 years
+* retained: 37% at 5 years, 30% at 6 years, 12% at 10 years, 11% at 7 years, 9% at 8 years
+
+Where years employed <=5
+* left the company: 47% at 3 years, 26% at 4 years, 25% at 5 years, 2% at 2 years
+* retained: 47% at 3 years, 31% at 2 years, 16% at 4 years, 1% at 5 years
+
+<img width="1452" alt="Screenshot 2024-10-22 at 12 12 10 AM" src="https://github.com/user-attachments/assets/02f994b4-d02e-4e13-8d12-1e50080a2a81">
+
+
 
 
 
