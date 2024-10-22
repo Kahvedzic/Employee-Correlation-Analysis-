@@ -33,6 +33,10 @@ Below consists of major key highlights of entire project.
 
 Overview of dataset used in project:
 
+<img width="276" alt="Screenshot 2024-10-21 at 11 58 54 PM" src="https://github.com/user-attachments/assets/2173b742-8885-4f9e-bc01-cd85b258995e">
+
+<img width="1127" alt="Screenshot 2024-10-22 at 12 00 07 AM" src="https://github.com/user-attachments/assets/38a19cc6-6e6f-402f-9125-488a30edc751">
+
 
 
 
