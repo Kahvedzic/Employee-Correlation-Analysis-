@@ -2,7 +2,8 @@
 
 Python & Jupyter Notebook
 
-<img width="665" alt="Screenshot 2024-10-21 at 11 53 56 PM" src="https://github.com/user-attachments/assets/18e05743-5553-4682-92b3-0cb88276ac4c">
+<img width="881" alt="Screenshot 2024-10-21 at 11 47 37 PM" src="https://github.com/user-attachments/assets/47de3ef3-4e64-492d-a1cc-52316debb273">
+
 
 
 # Project Background
