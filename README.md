@@ -1,4 +1,4 @@
-# Employee Analysis
+# Employee Correlation Analysis
 
 Python & Jupyter Notebook
 
