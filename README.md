@@ -12,6 +12,28 @@ The purpose of this project is to determine if there are any correlations with h
 and satisfaction levels amongst employees. Once our analysis is complete, we will take another step by seperating
 our analysis into departments in order to create insights to see if there are any correlations amongst departments
 
+Insights and recommendations are provided on the following key areas:
+
+* Create summary statistics for each variable needed
+* Visualize the left vs retained results based on >=5 and <=5 years employed
+* Visualize the correlations with variables SATISFACTION LEVELS, NUMBER PROJECTS, AVERAGE MONTHLY HOURS
+* Visualize the correlations with same variables grouped by DEPARTMENT
+
+Full in-depth project can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
+
+Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
+
+Below consists of major key highlights of entire project.
+
+# Data Structure & Initial Checks
+
+
+
+
+
+
+
+
 Core of analysis will be looking at 3 key columns:
 - Satisfaction levels
 - Number of projects completed
@@ -29,11 +51,6 @@ Techniques used in project include the following:
 Preparing data- filtering dataframe/columns, missing values, outliers
 
 Visualizing data - positive/negative correlations, box plots/line graphs/bar graphs
-
-Full in-depth project can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
-
-Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
-
 
 
 
