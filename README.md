@@ -18,6 +18,8 @@ Preparing data- filtering dataframe/columns, missing values, outliers
 
 Visualizing data - positive/negative correlations, box plots/line graphs/bar graphs
 
+Full in-depth project can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
+
 Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
 
 
