@@ -31,6 +31,8 @@ Below consists of major key highlights of entire project.
 
 # Data Structure & Initial Checks
 
+Overview of dataset used in project:
+
 
 
 
