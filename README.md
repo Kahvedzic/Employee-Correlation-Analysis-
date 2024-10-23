@@ -67,7 +67,6 @@ Filtered dataframe with bar graphs - for closer inspection:
 
 * It is very likely we will see differences in the overall data at once, but by filtering the visualization into 4 sectors we can visualize the difference.
 * Using the dataset, created 4 bar graphs specifically for when the employees left vs retained at the 5 year mark when years employed = >=5 | <=5
-* Analysis will showcase the differences 
 
 * **Left company percentage when years employed >= 5** 
 
@@ -81,25 +80,25 @@ Filtered dataframe with bar graphs - for closer inspection:
 
 <img width="1244" alt="Screenshot 2024-10-23 at 11 44 05 AM" src="https://github.com/user-attachments/assets/76ccd337-7d42-43ac-a15d-eb3ad73385d5">
 
-* Retained percentage when employed <= 5 
+* **Retained percentage when employed <= 5** 
 
 <img width="1254" alt="Screenshot 2024-10-23 at 11 45 57 AM" src="https://github.com/user-attachments/assets/77d5b63a-9f91-471b-8d5d-7040f8ec530a">
 
 Overview of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**) with respect to years employed
 
-Left company when years employed >= 5
+* **Left company when years employed >= 5**
 
 <img width="249" alt="Screenshot 2024-10-23 at 11 57 05 AM" src="https://github.com/user-attachments/assets/761fd71b-ee38-4790-b1c2-29818e1c3eb2">
 
-Retained when years employed >= 5
+* **Retained when years employed >= 5**
 
 <img width="250" alt="Screenshot 2024-10-23 at 11 57 49 AM" src="https://github.com/user-attachments/assets/7313458c-5f95-4184-bd6a-fab3ea4da81c">
 
-Left company when years employed <= 5
+* **Left company when years employed <= 5**
 
 <img width="247" alt="Screenshot 2024-10-23 at 11 58 08 AM" src="https://github.com/user-attachments/assets/4aae73ed-a47b-482d-a47a-ba107961a6df">
 
-Retained when years employed <= 5
+* **Retained when years employed <= 5**
 
 <img width="246" alt="Screenshot 2024-10-23 at 11 58 17 AM" src="https://github.com/user-attachments/assets/b3943ca1-dccd-4944-b116-ceaea981a066">
 
@@ -107,7 +106,7 @@ Visualization of variable correlation (**satisfaction levels, number of projects
 
 Plot and examine each filter:
 
-Left company when years employed >= 5 
+* **Left company when years employed >= 5**
 
 **Average satisfaction levels + trend over time**
 
@@ -127,7 +126,7 @@ Left company when years employed >= 5
 
 <img width="1458" alt="Screenshot 2024-10-23 at 12 19 34 PM" src="https://github.com/user-attachments/assets/2723f714-9289-43d6-98a5-54807afb465b">
 
-Retained when years employed >= 5
+* **Retained when years employed >= 5**
 
 **Average satisfaction levels + trend over time**
 
@@ -167,7 +166,7 @@ Left company when years employed <= 5
 
 <img width="1456" alt="Screenshot 2024-10-23 at 12 43 59 PM" src="https://github.com/user-attachments/assets/d7e96e4b-09c4-4674-aadf-5a1fdae0a161">
 
-Retained when years employed <= 5
+* **Retained when years employed <= 5**
 
 **Average satisfaction levels + trend over time**
 
