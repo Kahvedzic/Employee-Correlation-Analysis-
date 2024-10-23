@@ -83,15 +83,15 @@ Example shown below of satisfaction level shifts at the 3 and 4 year mark
 
 Overview of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**)
 
-* Left company when years employed >= 5
+Left company when years employed >= 5
 
 <img width="249" alt="Screenshot 2024-10-23 at 11 57 05 AM" src="https://github.com/user-attachments/assets/761fd71b-ee38-4790-b1c2-29818e1c3eb2">
 
-* Retained when years employed >= 5
+Retained when years employed >= 5
 
 <img width="250" alt="Screenshot 2024-10-23 at 11 57 49 AM" src="https://github.com/user-attachments/assets/7313458c-5f95-4184-bd6a-fab3ea4da81c">
 
-* Left company when years employed <= 5
+Left company when years employed <= 5
 
 <img width="247" alt="Screenshot 2024-10-23 at 11 58 08 AM" src="https://github.com/user-attachments/assets/4aae73ed-a47b-482d-a47a-ba107961a6df">
 
