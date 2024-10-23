@@ -42,6 +42,7 @@ Overview of findings:
 Summary: Time spent with the company results
 
 Part 3 Summary: Correlation results amongst 'satisfaction_level', 'number_project', 'average_monthly_hours'
+Satisfaction scale: **0.0 - 1.0**
 
 * Where years >=5 & left averages:
 'satisfaction_level'= .73, 'number_project'= 4.7, 'average_monthly_hours'= 245
