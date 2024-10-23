@@ -1,5 +1,9 @@
 # Employee Correlation Analysis | Python & Jupyter Notebook
 
+Full in-depth project can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
+
+Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
+
 <img width="881" alt="Screenshot 2024-10-21 at 11 47 37 PM" src="https://github.com/user-attachments/assets/47de3ef3-4e64-492d-a1cc-52316debb273">
 
 # Project Background
@@ -17,10 +21,6 @@ Insights and recommendations are provided on the following key areas:
 * Visualize the left vs retained results based on >=5 and <=5 years employed
 * Visualize the correlations with variables SATISFACTION LEVELS, NUMBER PROJECTS, AVERAGE MONTHLY HOURS
 * Visualize the correlations with same variables grouped by DEPARTMENT
-
-Full in-depth project can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
-
-Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
 
 Below consists of major key highlights of entire project
 
@@ -226,6 +226,10 @@ Where years <=5 & retained
 * Lowest 'average_monthly_hours' = almost no difference
 
 There is no distinct correlation amongst departments regarding the variables 'satisfaction_level', 'number_project', 'average_monthly_hours'
+
+Full in-depth project can be found again [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
+
+Project dataset can be found again [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
 
 Need to include avg groubed by departments
 
