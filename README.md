@@ -146,7 +146,7 @@ Plot and examine each filter:
 
 <img width="1455" alt="Screenshot 2024-10-23 at 12 26 35 PM" src="https://github.com/user-attachments/assets/ea924a92-08c0-4611-834d-c7ab37cefe0a">
 
-Left company when years employed <= 5 
+* **Left company when years employed <= 5**
 
 **Average satisfaction levels + trend over time**
 
