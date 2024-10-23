@@ -181,5 +181,53 @@ Retained when years employed <= 5
 
 <img width="1455" alt="Screenshot 2024-10-23 at 12 46 54 PM" src="https://github.com/user-attachments/assets/afe0dd33-0c73-4d8b-aee1-7b9e42a4e2e1">
 
+# Conclusion
 
+Brief overview:
+
+* 3571(24%) left / 11428(76%) retained when years employed was >=5
+* 3 years (43%) / 8 years (10%) were the highest/lowest time spend with the company
+* 4 projects (29%) / 7 projects (2%) were the highest / lowest amount of projects completed
+* 135 & 156 hours / 303 hours were the highset / lowest average of monthly hours worked
+* Sales(28%) / management(4%) were the most / least employees per department
+
+Potential correlation amongst departments of 'satisfaction_level', 'number_project', 'average_monthly_hours'
+
+* Where years >=5 & left
+Highest 'satisfaction_level' = management & product_mng
+Lowest 'satisfaction_level' = IT, RandD, hr
+Highest 'number_project' = IT & RandD
+Lowest 'number_project' = management
+Highest 'average_monthly_hours' = IT & marketing
+Lowest 'average_monthly_hours' = hr, product_mng, support
+
+* Where years >=5 & retained
+Highest 'satisfaction_level' = IT, management, sales
+Lowest 'satisfaction_level' = RandD, hr
+Highest 'number_project' = RandD, product_mng, sales, technical
+Lowest 'number_project' = IT, management, marketing
+Highest 'average_monthly_hours' = RandD, accounting, hr, sales
+Lowest 'average_monthly_hours' = marketing, support
+
+* Where years <=5 & left
+Highest 'satisfaction_level' = RandD, product_mng, support
+Lowest 'satisfaction_level' = accounting
+Highest 'number_project' = management, technical
+Lowest 'number_project' = hr, marketing
+Highest 'average_monthly_hours' = IT, RandD, management, technical
+Lowest 'average_monthly_hours' = hr, marketing
+
+* Where years <=5 & retained
+Highest 'satisfaction_level' = IT, marketing, support, technical
+Lowest 'satisfaction_level' = accounting
+Highest 'number_project' = management
+Lowest 'number_project' = hr
+Highest 'average_monthly_hours' = almost no difference
+Lowest 'average_monthly_hours' = almost no difference
+
+There is no distinct correlation amongst departments regarding the variables 'satisfaction_level', 'number_project', 'average_monthly_hours'
+
+# Thank You
+
+Amar Kahvedzic
 
