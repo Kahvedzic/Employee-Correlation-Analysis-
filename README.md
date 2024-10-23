@@ -85,8 +85,6 @@ Filtered dataframe with bar graphs - for closer inspection:
 
 Overview of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**) with respect to years employed
 
-Plot and examine each filter:
-
 Left company when years employed >= 5
 
 <img width="249" alt="Screenshot 2024-10-23 at 11 57 05 AM" src="https://github.com/user-attachments/assets/761fd71b-ee38-4790-b1c2-29818e1c3eb2">
@@ -104,6 +102,8 @@ Retained when years employed <= 5
 <img width="246" alt="Screenshot 2024-10-23 at 11 58 17 AM" src="https://github.com/user-attachments/assets/b3943ca1-dccd-4944-b116-ceaea981a066">
 
 Visualization of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**) by **department**
+
+Plot and examine each filter:
 
 Left company when years employed >= 5 
 
