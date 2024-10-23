@@ -4,7 +4,7 @@
 
 # Project Background
 
-*Does* the number of years employed have any direct correlation to the overall number of employees retained vs left.
+**Does** the number of years employed have any direct correlation to the overall number of employees retained vs left.
 Is there a point in which x-amount years employeed has a significant shift of employees leaving the company vs
 retained. Our analysis will consists upon the bases of two clear distinctions, where years employeed (>=5 and <=5)
 The purpose of this project is to determine if there are any correlations with hours worked, projects completed,
