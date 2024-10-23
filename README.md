@@ -141,11 +141,45 @@ Retained when years employed >= 5
 
 <img width="1455" alt="Screenshot 2024-10-23 at 12 26 35 PM" src="https://github.com/user-attachments/assets/ea924a92-08c0-4611-834d-c7ab37cefe0a">
 
+Left company when years employed <= 5 
+
 **Satisfaction levels + trend over time**
+
+<img width="1449" alt="Screenshot 2024-10-23 at 12 42 19 PM" src="https://github.com/user-attachments/assets/da47de87-e9dc-4cb4-a220-b3703a0677e7">
+
+<img width="1452" alt="Screenshot 2024-10-23 at 12 42 37 PM" src="https://github.com/user-attachments/assets/95cf0ecd-e25f-4e66-971e-897f7b255e66">
+
 **Number of projects + trend over time**
+
+<img width="1453" alt="Screenshot 2024-10-23 at 12 43 16 PM" src="https://github.com/user-attachments/assets/51902d5f-2fdb-490f-b069-55dbc433912f">
+
+<img width="1441" alt="Screenshot 2024-10-23 at 12 43 23 PM" src="https://github.com/user-attachments/assets/00b61846-d05b-4de9-99e4-4bbc75ec992a">
+
 **Average monthly hours worked + trend over time**
 
+<img width="1454" alt="Screenshot 2024-10-23 at 12 43 53 PM" src="https://github.com/user-attachments/assets/f31fa4eb-bf0a-4450-88a4-d03050555a19">
 
+<img width="1456" alt="Screenshot 2024-10-23 at 12 43 59 PM" src="https://github.com/user-attachments/assets/d7e96e4b-09c4-4674-aadf-5a1fdae0a161">
+
+Retained when years employed <= 5
+
+**Satisfaction levels + trend over time**
+
+<img width="1452" alt="Screenshot 2024-10-23 at 12 45 31 PM" src="https://github.com/user-attachments/assets/0d9591d8-4097-4937-b4fb-95aa768c627a">
+
+<img width="1454" alt="Screenshot 2024-10-23 at 12 45 38 PM" src="https://github.com/user-attachments/assets/64b0563f-1640-4113-9bb6-a084ded77863">
+
+**Number of projects + trend over time**
+
+<img width="1452" alt="Screenshot 2024-10-23 at 12 46 05 PM" src="https://github.com/user-attachments/assets/24051241-2c39-4b1f-851f-0565b59e54b1">
+
+<img width="1450" alt="Screenshot 2024-10-23 at 12 46 14 PM" src="https://github.com/user-attachments/assets/e9bee177-b267-4e4b-9122-2c50927c8739">
+
+**Average monthly hours worked + trend over time**
+
+<img width="1453" alt="Screenshot 2024-10-23 at 12 46 46 PM" src="https://github.com/user-attachments/assets/10a6275e-7318-427a-8cd9-26cd0170f2ef">
+
+<img width="1455" alt="Screenshot 2024-10-23 at 12 46 54 PM" src="https://github.com/user-attachments/assets/afe0dd33-0c73-4d8b-aee1-7b9e42a4e2e1">
 
 
 
