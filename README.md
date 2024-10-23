@@ -99,3 +99,18 @@ Retained when years employed <= 5
 
 <img width="246" alt="Screenshot 2024-10-23 at 11 58 17 AM" src="https://github.com/user-attachments/assets/b3943ca1-dccd-4944-b116-ceaea981a066">
 
+Visualization of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**) by **department**
+
+Left company when years employed >= 5
+
+
+
+
+
+
+
+
+
+
+
+
