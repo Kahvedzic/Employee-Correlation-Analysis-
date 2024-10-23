@@ -101,13 +101,24 @@ Retained when years employed <= 5
 
 Visualization of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**) by **department**
 
-Left company when years employed >= 5
+Left company when years employed >= 5 
+**Satisfaction levels**
 
 <img width="1454" alt="Screenshot 2024-10-23 at 12 13 10 PM" src="https://github.com/user-attachments/assets/231eacd5-1e0a-4c04-878f-2d09022819c2">
 
 <img width="1449" alt="Screenshot 2024-10-23 at 12 13 24 PM" src="https://github.com/user-attachments/assets/caece2f7-adb3-4832-915a-c857f0e24d43">
 
+**Number of projects**
 
+<img width="1439" alt="Screenshot 2024-10-23 at 12 16 21 PM" src="https://github.com/user-attachments/assets/f62b863b-1424-444c-978e-e40eccccbda8">
+
+<img width="1450" alt="Screenshot 2024-10-23 at 12 16 33 PM" src="https://github.com/user-attachments/assets/704d59ef-08b7-4de2-8a32-c02d3ad748b1">
+
+**Average monthly hours worked**
+
+<img width="1453" alt="Screenshot 2024-10-23 at 12 19 22 PM" src="https://github.com/user-attachments/assets/bb81730c-8470-4ad0-9d56-087c0cae92c5">
+
+<img width="1458" alt="Screenshot 2024-10-23 at 12 19 34 PM" src="https://github.com/user-attachments/assets/2723f714-9289-43d6-98a5-54807afb465b">
 
 
 
