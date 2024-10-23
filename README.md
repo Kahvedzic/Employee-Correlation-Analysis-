@@ -46,7 +46,7 @@ Part 3 Summary: Correlation results amongst 'satisfaction_level', 'number_projec
 * Where years >=5 & left averages:
 'satisfaction_level'= .73, 'number_project'= 4.7, 'average_monthly_hours'= 245
 
-*Where years >=5 & retained averages:
+* Where years >=5 & retained averages:
 'satisfaction_level'= .55, 'number_project'= 4, 'average_monthly_hours'= 197
 
 * Where years <=5 & left averages:
