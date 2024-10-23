@@ -59,7 +59,7 @@ Satisfaction level scale: **0.0 - 1.0**
 
 Employees who eventually left the company averaged the highest satisfaction levels, projects completed, and average hours worked monthly. We can safely assume other factors such as better oppertunity arose for the most productive and most satisfied employees to eventually depart.
 
-Example shown below of satisfaction level shifts at the 3 and 4 year mark
+Example shown below of satisfaction level shifts occuring at the 3 and 4 year mark
 
 <img width="1452" alt="Screenshot 2024-10-22 at 12 12 10 AM" src="https://github.com/user-attachments/assets/02f994b4-d02e-4e13-8d12-1e50080a2a81">
 
