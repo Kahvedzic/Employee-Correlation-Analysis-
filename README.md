@@ -227,6 +227,8 @@ Where years <=5 & retained
 
 There is no distinct correlation amongst departments regarding the variables 'satisfaction_level', 'number_project', 'average_monthly_hours'
 
+Need to include avg groubed by departments
+
 # Thank You
 
 Amar Kahvedzic
