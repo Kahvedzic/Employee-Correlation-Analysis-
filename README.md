@@ -103,6 +103,12 @@ Visualization of variable correlation (**satisfaction levels, number of projects
 
 Left company when years employed >= 5
 
+<img width="1454" alt="Screenshot 2024-10-23 at 12 13 10 PM" src="https://github.com/user-attachments/assets/231eacd5-1e0a-4c04-878f-2d09022819c2">
+
+<img width="1449" alt="Screenshot 2024-10-23 at 12 13 24 PM" src="https://github.com/user-attachments/assets/caece2f7-adb3-4832-915a-c857f0e24d43">
+
+
+
 
 
 
