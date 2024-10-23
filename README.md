@@ -183,7 +183,7 @@ Retained when years employed <= 5
 
 # Conclusion
 
-Brief overview:
+There is no distinct correlation amongst departments regarding the variables 'satisfaction_level', 'number_project', 'average_monthly_hours'
 
 * 3571(24%) left / 11428(76%) retained when years employed was >=5
 * 3 years (43%) / 8 years (10%) were the highest/lowest time spend with the company
@@ -224,8 +224,6 @@ Where years <=5 & retained
 * Lowest 'number_project' = hr
 * Highest 'average_monthly_hours' = almost no difference
 * Lowest 'average_monthly_hours' = almost no difference
-
-There is no distinct correlation amongst departments regarding the variables 'satisfaction_level', 'number_project', 'average_monthly_hours'
 
 Full in-depth project can be found again [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
 
