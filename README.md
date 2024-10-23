@@ -121,12 +121,29 @@ Left company when years employed >= 5
 
 <img width="1458" alt="Screenshot 2024-10-23 at 12 19 34 PM" src="https://github.com/user-attachments/assets/2723f714-9289-43d6-98a5-54807afb465b">
 
+Retained when years employed >= 5
 
+**Satisfaction levels + trend over time**
 
+<img width="1449" alt="Screenshot 2024-10-23 at 12 24 53 PM" src="https://github.com/user-attachments/assets/5e8d7fec-a1f8-4de6-824f-a44e7a1c7754">
 
+<img width="1449" alt="Screenshot 2024-10-23 at 12 25 04 PM" src="https://github.com/user-attachments/assets/b486fcbb-e648-4522-9609-7e0fd49368f4">
 
+**Number of projects + trend over time**
 
+<img width="1441" alt="Screenshot 2024-10-23 at 12 25 42 PM" src="https://github.com/user-attachments/assets/c557547e-5531-4e8a-9c26-3f15a9afc572">
 
+<img width="1451" alt="Screenshot 2024-10-23 at 12 25 50 PM" src="https://github.com/user-attachments/assets/2de52255-6063-4535-ba81-1d206ba80046">
+
+**Average monthly hours worked + trend over time**
+
+<img width="1452" alt="Screenshot 2024-10-23 at 12 26 27 PM" src="https://github.com/user-attachments/assets/d200698d-9040-4d23-bc1f-178ec7c510ff">
+
+<img width="1455" alt="Screenshot 2024-10-23 at 12 26 35 PM" src="https://github.com/user-attachments/assets/ea924a92-08c0-4611-834d-c7ab37cefe0a">
+
+**Satisfaction levels + trend over time**
+**Number of projects + trend over time**
+**Average monthly hours worked + trend over time**
 
 
 
