@@ -37,11 +37,9 @@ Prior to beginning of analysis, familiarization with the dataset was used for qu
 
 # Executive Summary
 
-Overview of findings: 
+Overview of findings: Time spent with the company results
 
-Summary: Time spent with the company results
-
-Part 3 Summary: Correlation results amongst 'satisfaction_level', 'number_project', 'average_monthly_hours'
+Correlation results amongst 'satisfaction_level', 'number_project', 'average_monthly_hours'
 
 Satisfaction level scale: **0.0 - 1.0**
 
