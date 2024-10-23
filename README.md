@@ -103,13 +103,13 @@ Visualization of variable correlation (**satisfaction levels, number of projects
 
 Left company when years employed >= 5 
 
-**Satisfaction levels + trend over time**
+**Average satisfaction levels + trend over time**
 
 <img width="1454" alt="Screenshot 2024-10-23 at 12 13 10 PM" src="https://github.com/user-attachments/assets/231eacd5-1e0a-4c04-878f-2d09022819c2">
 
 <img width="1449" alt="Screenshot 2024-10-23 at 12 13 24 PM" src="https://github.com/user-attachments/assets/caece2f7-adb3-4832-915a-c857f0e24d43">
 
-**Number of projects + trend over time**
+**Average number of projects + trend over time**
 
 <img width="1439" alt="Screenshot 2024-10-23 at 12 16 21 PM" src="https://github.com/user-attachments/assets/f62b863b-1424-444c-978e-e40eccccbda8">
 
@@ -123,13 +123,13 @@ Left company when years employed >= 5
 
 Retained when years employed >= 5
 
-**Satisfaction levels + trend over time**
+**Average satisfaction levels + trend over time**
 
 <img width="1449" alt="Screenshot 2024-10-23 at 12 24 53 PM" src="https://github.com/user-attachments/assets/5e8d7fec-a1f8-4de6-824f-a44e7a1c7754">
 
 <img width="1449" alt="Screenshot 2024-10-23 at 12 25 04 PM" src="https://github.com/user-attachments/assets/b486fcbb-e648-4522-9609-7e0fd49368f4">
 
-**Number of projects + trend over time**
+**Average number of projects + trend over time**
 
 <img width="1441" alt="Screenshot 2024-10-23 at 12 25 42 PM" src="https://github.com/user-attachments/assets/c557547e-5531-4e8a-9c26-3f15a9afc572">
 
@@ -143,13 +143,13 @@ Retained when years employed >= 5
 
 Left company when years employed <= 5 
 
-**Satisfaction levels + trend over time**
+**Average satisfaction levels + trend over time**
 
 <img width="1449" alt="Screenshot 2024-10-23 at 12 42 19 PM" src="https://github.com/user-attachments/assets/da47de87-e9dc-4cb4-a220-b3703a0677e7">
 
 <img width="1452" alt="Screenshot 2024-10-23 at 12 42 37 PM" src="https://github.com/user-attachments/assets/95cf0ecd-e25f-4e66-971e-897f7b255e66">
 
-**Number of projects + trend over time**
+**Average number of projects + trend over time**
 
 <img width="1453" alt="Screenshot 2024-10-23 at 12 43 16 PM" src="https://github.com/user-attachments/assets/51902d5f-2fdb-490f-b069-55dbc433912f">
 
@@ -163,13 +163,13 @@ Left company when years employed <= 5
 
 Retained when years employed <= 5
 
-**Satisfaction levels + trend over time**
+**Average satisfaction levels + trend over time**
 
 <img width="1452" alt="Screenshot 2024-10-23 at 12 45 31 PM" src="https://github.com/user-attachments/assets/0d9591d8-4097-4937-b4fb-95aa768c627a">
 
 <img width="1454" alt="Screenshot 2024-10-23 at 12 45 38 PM" src="https://github.com/user-attachments/assets/64b0563f-1640-4113-9bb6-a084ded77863">
 
-**Number of projects + trend over time**
+**Average number of projects + trend over time**
 
 <img width="1452" alt="Screenshot 2024-10-23 at 12 46 05 PM" src="https://github.com/user-attachments/assets/24051241-2c39-4b1f-851f-0565b59e54b1">
 
@@ -230,8 +230,6 @@ There is no distinct correlation amongst departments regarding the variables 'sa
 Full in-depth project can be found again [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
 
 Project dataset can be found again [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
-
-Need to include avg groubed by departments
 
 # Thank You
 
