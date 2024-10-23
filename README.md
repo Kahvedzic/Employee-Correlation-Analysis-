@@ -69,15 +69,15 @@ Filtered dataframe with bar graphs - for closer inspection:
 * Using the dataset, created 4 bar graphs specifically for when the employees left vs retained at the 5 year mark when years employed = >=5 | <=5
 * Analysis will showcase the differences 
 
-* Left company percentage when years employed >= 5 
+* **Left company percentage when years employed >= 5** 
 
 <img width="1459" alt="Screenshot 2024-10-23 at 11 40 49 AM" src="https://github.com/user-attachments/assets/81383f0b-26f2-4f56-9a14-7b0e82195374">
 
-* Retained percentage when years employed >= 5 
+* **Retained percentage when years employed >= 5**
 
 <img width="1246" alt="Screenshot 2024-10-23 at 11 42 43 AM" src="https://github.com/user-attachments/assets/a74df8e7-2a4a-4686-9516-b6378793c063">
 
-* Left company percentage when years employed <= 5 
+* **Left company percentage when years employed <= 5** 
 
 <img width="1244" alt="Screenshot 2024-10-23 at 11 44 05 AM" src="https://github.com/user-attachments/assets/76ccd337-7d42-43ac-a15d-eb3ad73385d5">
 
