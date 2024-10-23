@@ -65,6 +65,8 @@ Example shown below of satisfaction level shifts occuring at the 3 and 4 year ma
 
 # Insights & Deep Dive
 
+Filtered dataframe with bar graphs - for closer inspection:
+
 * Left company percentage when years employed >= 5 
 
 <img width="1459" alt="Screenshot 2024-10-23 at 11 40 49 AM" src="https://github.com/user-attachments/assets/81383f0b-26f2-4f56-9a14-7b0e82195374">
@@ -82,6 +84,8 @@ Example shown below of satisfaction level shifts occuring at the 3 and 4 year ma
 <img width="1254" alt="Screenshot 2024-10-23 at 11 45 57 AM" src="https://github.com/user-attachments/assets/77d5b63a-9f91-471b-8d5d-7040f8ec530a">
 
 Overview of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**) with respect to years employed
+
+Plot and examine each filter:
 
 Left company when years employed >= 5
 
