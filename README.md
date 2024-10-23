@@ -41,17 +41,30 @@ Overview of findings:
 
 Summary: Time spent with the company results
 
-Where years employed >=5
-* Left the company: 80% at 5 years, 20 % at 6 years
-* Retained: 37% at 5 years, 30% at 6 years, 12% at 10 years, 11% at 7 years, 9% at 8 years
+Part 3 Summary: Correlation results amongst 'satisfaction_level', 'number_project', 'average_monthly_hours'
 
-Where years employed <=5.
-* Left the company: 47% at 3 years, 26% at 4 years, 25% at 5 years, 2% at 2 years
-* Retained: 47% at 3 years, 31% at 2 years, 16% at 4 years, 1% at 5 years
+* Where years >=5 & left averages:
+'satisfaction_level'= .73, 'number_project'= 4.7, 'average_monthly_hours'= 245
 
-  Example shown below of satisfaction level shifts at the 3 and 4 year mark
+*Where years >=5 & retained averages:
+'satisfaction_level'= .55, 'number_project'= 4, 'average_monthly_hours'= 197
+
+* Where years <=5 & left averages:
+'satisfaction_level'= .41, 'number_project'= 3.8, 'average_monthly_hours'= 205
+
+* Where years <=5 & retained averages:
+    'satisfaction_level'= .67, 'number_project'= 3.8, 'average_monthly_hours'= 199
+
+Employees who eventually left the company averaged the highest satisfaction levels, projects completed, and average hours worked monthly
+We can assume other factors such as better oppertunity arose for the most productive and most satisfied employeed to eventually depart
+
+Example shown below of satisfaction level shifts at the 3 and 4 year mark
 
 <img width="1452" alt="Screenshot 2024-10-22 at 12 12 10 AM" src="https://github.com/user-attachments/assets/02f994b4-d02e-4e13-8d12-1e50080a2a81">
+
+# Insights & Deep Dive
+
+
 
 
 
