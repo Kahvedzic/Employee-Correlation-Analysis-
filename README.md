@@ -55,7 +55,7 @@ Part 3 Summary: Correlation results amongst 'satisfaction_level', 'number_projec
 * Where years <=5 & retained averages:
     'satisfaction_level'= .67, 'number_project'= 3.8, 'average_monthly_hours'= 199
 
-Employees who eventually left the company averaged the highest satisfaction levels, projects completed, and average hours worked monthly. We can safely assume other factors such as better oppertunity arose for the most productive and most satisfied employeed to eventually depart
+Employees who eventually left the company averaged the highest satisfaction levels, projects completed, and average hours worked monthly. We can safely assume other factors such as better oppertunity arose for the most productive and most satisfied employees to eventually depart.
 
 Example shown below of satisfaction level shifts at the 3 and 4 year mark
 
