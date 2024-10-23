@@ -49,6 +49,8 @@ Where years employed <=5.
 * Left the company: 47% at 3 years, 26% at 4 years, 25% at 5 years, 2% at 2 years.
 * Retained: 47% at 3 years, 31% at 2 years, 16% at 4 years, 1% at 5 years.
 
+  Example shown below of satisfaction levels.
+
 <img width="1452" alt="Screenshot 2024-10-22 at 12 12 10 AM" src="https://github.com/user-attachments/assets/02f994b4-d02e-4e13-8d12-1e50080a2a81">
 
 
