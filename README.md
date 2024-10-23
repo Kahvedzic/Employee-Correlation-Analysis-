@@ -65,19 +65,19 @@ Example shown below of satisfaction level shifts at the 3 and 4 year mark
 
 # Insights & Deep Dive
 
-Left when years employed >= 5 percentage 
+* Left company percentage when years employed >= 5 
 
 <img width="1459" alt="Screenshot 2024-10-23 at 11 40 49 AM" src="https://github.com/user-attachments/assets/81383f0b-26f2-4f56-9a14-7b0e82195374">
 
-Retained when employed >= 5 percentage
+* Retained percentage when years employed >= 5 
 
 <img width="1246" alt="Screenshot 2024-10-23 at 11 42 43 AM" src="https://github.com/user-attachments/assets/a74df8e7-2a4a-4686-9516-b6378793c063">
 
-Left when years employed <= 5 percentage
+* Left company percentage when years employed <= 5 
 
 <img width="1244" alt="Screenshot 2024-10-23 at 11 44 05 AM" src="https://github.com/user-attachments/assets/76ccd337-7d42-43ac-a15d-eb3ad73385d5">
 
-Retained when employed <= 5 percentage
+* Retained percentage when employed <= 5 
 
 <img width="1254" alt="Screenshot 2024-10-23 at 11 45 57 AM" src="https://github.com/user-attachments/assets/77d5b63a-9f91-471b-8d5d-7040f8ec530a">
 
