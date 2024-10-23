@@ -81,7 +81,7 @@ Example shown below of satisfaction level shifts at the 3 and 4 year mark
 
 <img width="1254" alt="Screenshot 2024-10-23 at 11 45 57 AM" src="https://github.com/user-attachments/assets/77d5b63a-9f91-471b-8d5d-7040f8ec530a">
 
-
+Overview of variable correlation (**satisfaction levels, number of projects, average monthly hours worked**)
 
 
 
