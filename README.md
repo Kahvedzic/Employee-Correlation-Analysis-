@@ -196,9 +196,9 @@ There is no distinct correlation amongst departments regarding the variables 'sa
 * 135 & 156 hours / 303 hours were the highset / lowest average of monthly hours worked
 * Sales(28%) / management(4%) were the most / least employees per department
 
-Potential correlation amongst departments of 'satisfaction_level', 'number_project', 'average_monthly_hours'
+Key information amongst departments of **'satisfaction_level', 'number_project', 'average_monthly_hours'**
 
-Where years >=5 & left
+* **Where years >=5 & left**
 * Highest 'satisfaction_level' = management & product_mng
 * Lowest 'satisfaction_level' = IT, RandD, hr
 * Highest 'number_project' = IT & RandD
@@ -206,7 +206,7 @@ Where years >=5 & left
 * Highest 'average_monthly_hours' = IT & marketing
 * Lowest 'average_monthly_hours' = hr, product_mng, support
 
-Where years >=5 & retained
+* **Where years >=5 & retained**
 * Highest 'satisfaction_level' = IT, management, sales
 * Lowest 'satisfaction_level' = RandD, hr
 * Highest 'number_project' = RandD, product_mng, sales, technical
@@ -214,7 +214,7 @@ Where years >=5 & retained
 * Highest 'average_monthly_hours' = RandD, accounting, hr, sales
 * Lowest 'average_monthly_hours' = marketing, support
 
-Where years <=5 & left
+* **Where years <=5 & left**
 * Highest 'satisfaction_level' = RandD, product_mng, support
 * Lowest 'satisfaction_level' = accounting
 * Highest 'number_project' = management, technical
@@ -222,7 +222,7 @@ Where years <=5 & left
 * Highest 'average_monthly_hours' = IT, RandD, management, technical
 * Lowest 'average_monthly_hours' = hr, marketing
 
-Where years <=5 & retained
+* **Where years <=5 & retained**
 * Highest 'satisfaction_level' = IT, marketing, support, technical
 * Lowest 'satisfaction_level' = accounting
 * Highest 'number_project' = management
