@@ -188,7 +188,7 @@ Plot and examine each filter:
 
 # Conclusion
 
-There is no distinct correlation amongst departments regarding the variables 'satisfaction_level', 'number_project', 'average_monthly_hours'
+There is no distinct correlation amongst departments regarding the variables **'satisfaction_level', 'number_project', 'average_monthly_hours'**
 
 * 3571(24%) left / 11428(76%) retained when years employed was >=5
 * 3 years (43%) / 8 years (10%) were the highest/lowest time spend with the company
