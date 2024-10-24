@@ -9,10 +9,10 @@ Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correl
 # Project Background
 
 Does the number of years employed have any direct correlation to the overall number of employees retained vs left.
-Is there a point in which x-amount years employeed has a significant shift of employees leaving the company vs
-retained. Our analysis will consists upon the bases of two clear distinctions, where years employeed (>=5 and <=5)
+Is there a point in which x-amount years employed has a significant shift of employees leaving the company vs
+retained. Our analysis will consists upon the bases of two clear distinctions, where years employed (>=5 and <=5)
 The purpose of this project is to determine if there are any correlations with hours worked, projects completed,
-and satisfaction levels amongst employees. Once our analysis is complete, we will take another step by seperating
+and satisfaction levels amongst employees. Once our analysis is complete, we will take another step by separating
 our analysis into departments in order to create insights to see if there are any correlations amongst departments
 
 Insights and recommendations are provided on the following key areas:
