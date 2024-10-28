@@ -1,5 +1,7 @@
 # Employee Correlation Analysis | Python & Jupyter Notebook
 
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
+
 Full in-depth project can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/blob/main/Employee%20Correlation%20Analysis.ipynb)
 
 Project dataset can be found [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
@@ -235,6 +237,8 @@ Full in-depth project can be found again [here](https://github.com/Kahvedzic/Emp
 Project dataset can be found again [here](https://github.com/Kahvedzic/Employee-Correlation-Analysis-/tree/main/Project%20Files)
 
 # Thank You
+
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
 
 Amar Kahvedzic
 
